@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Shashwat Aneja Banner" width="100%">
+</p>
+
 # 👋 Hi, I'm Shashwat Aneja  
 ### Student Developer · AI & VR Enthusiast · Embedded Systems Learner  
 Delhi, India  
