@@ -1,102 +1,99 @@
 # 👋 Hi, I'm Shashwat Aneja  
-### Student Developer | AI Enthusiast | Game & VR Developer | Embedded Systems Learner  
+### Student Developer · AI & VR Enthusiast · Embedded Systems Learner  
 Delhi, India  
 
----
+I build intelligent systems, interactive experiences, and hardware-integrated projects.  
+My work spans **AI**, **machine learning**, **game development**, **VR**, **backend engineering**, and **Arduino-based hardware systems**.
 
-## 🚀 About Me  
-I am a passionate student developer focused on building **AI-powered systems**, **VR experiences**, and **hardware-integrated applications**.  
-My work blends software engineering, machine learning, game development, and real-world electronics.
-
-I enjoy solving problems, understanding how systems work end-to-end, and turning ideas into practical, working prototypes.
+I love solving real problems, creating immersive simulations, and understanding how software and hardware come together.
 
 ---
 
-## 🧠 What I Work On  
+## 🚀 What I Do
 
 ### **Artificial Intelligence**
-- Machine learning models (classification, CNNs, neural networks)  
-- Data preprocessing, model evaluation  
-- AI chat assistants & NLP intent systems  
+- Neural networks & classification models  
+- MNIST, custom datasets  
+- Data preprocessing, evaluation, predictions  
+
+### **Backend Development (Python)**
+- FastAPI-based APIs  
+- Automation pipelines  
+- Report generation (PDF/CSV/JSON)  
+- Scheduling, email workflows  
 
 ### **Game & VR Development**
-- Unity & Godot  
-- VR interactions, gaze systems, motion tracking  
-- Physics-based cricket simulations  
+- Unity (C#)  
+- Godot  
+- Unreal 3D world building  
+- VR interactions, gaze UI systems  
 
-### **IoT & Embedded Systems**
-- Arduino (Nano, UNO)  
-- IMU sensors (MPU6050)  
-- Real-time motion tracking  
-- Smart automation prototypes  
+### **Embedded Systems**
+- Arduino Nano/UNO  
+- MPU6050 IMU motion tracking  
+- Sensors (LDR, relay modules, keypads)  
+- Automation & device control  
 
-### **Web & Backend**
-- FastAPI & Python backend services  
-- REST API design  
-- Automation scripts & utilities  
-- Web hosting, domain setup  
+### **Web Development**
+- HTML, CSS, JS  
+- 3D UI components  
+- Interactive utilities  
 
 ---
 
-## 🛠 Tech Stack  
+## 🛠 Tech Stack
 
-**Languages:**  
-Python, C#, C++, JavaScript  
-
-**Frameworks & Tools:**  
-FastAPI, PyTorch, scikit-learn, Unity, Godot, Arduino IDE  
-
-**Hardware:**  
-Arduino Nano/UNO, MPU6050 IMU, sensor-driven systems  
-
-**Other:**  
-Git, GitHub, Linux, VS Code, Render, Netlify  
+**Languages:** Python, C#, C++, JavaScript  
+**Frameworks:** FastAPI, PyTorch, scikit-learn, Unity, Godot  
+**Hardware:** Arduino, IMU sensors, LDR, servo/relay modules  
+**Tools:** Git, VS Code, Blender, Linux, Render, Netlify  
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔸 **XYLO — AI-Enabled Business Automation System**  
-A full financial automation suite with:  
-- AI chatbot  
-- Invoice OCR  
-- Automated reports (PDF/CSV/JSON)  
-- Accounting engine  
-- Reminder workflows  
-- FastAPI backend  
+### 🔹 **XYLO — AI Business Automation System**  
+Full backend automation suite with:  
+AI chat assistant · Invoice OCR · Financial reports · Scheduling · FastAPI backend  
+➡️ *Shows AI + backend + automation engineering*
 
-### 🔸 **VR Cricket Simulation**  
-A realistic VR cricket experience using Unity & Arduino-based bat tracking.  
-Features head-tracking, gaze interaction, animated bowler, and AI fielding.
+### 🔹 **VR Cricket Simulation**  
+Unity-based VR cricket with Arduino MPU6050 bat tracking and AI fielding.  
+➡️ *High-impact VR + hardware integration*
 
-### 🔸 **MNIST Digit Classifier**  
-Neural network trained on MNIST dataset (PyTorch)  
-Includes training, evaluation, and custom image predictions.
+### 🔹 **ARC — Asian Royal Conquest (3D Open World Game)**  
+Large-scale open world with movement, environment design, and gameplay systems.  
+➡️ *Advanced 3D game engineering*
 
-### 🔸 **FastAPI Starter Service**  
-A clean template for building scalable Python APIs.
+### 🔹 **FastAPI Starter Service**  
+A clean, minimal backend template for scalable APIs.  
+➡️ *Backend fundamentals and clean architecture*
 
-And more at:  
-➡️ https://github.com/Shashwat-Aneja
+### 🔹 **MNIST Digit Classifier**  
+Neural network trained on MNIST with prediction support.  
+➡️ *Core machine learning fundamentals*
 
 ---
 
-## 🎯 Goals  
-- Build impactful AI applications  
-- Explore research-oriented projects  
-- Develop advanced simulations & hardware-AI integrations  
-- Contribute to open-source software  
-- Pursue deeper studies in AI & Computer Science  
+## 📈 GitHub Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=Shashwat-Aneja&style=flat&color=blue)
+![GitHub Followers](https://img.shields.io/github/followers/Shashwat-Aneja?style=flat&color=blue)
+![GitHub Stars](https://img.shields.io/github/stars/Shashwat-Aneja?style=flat&color=blue)
 
 ---
 
-## 📬 Contact Me  
+## 🎯 My Vision  
+I want to build systems where **AI**, **real-world sensors**, and **interactive environments** work together to create practical, intelligent, and immersive technology.
 
-📧 **Email:** shashwataneja1401@gmail.com  
-🌍 **Location:** Delhi, India  
+Long term, I aim to contribute to **AI research**, advanced automation tools, and interactive simulation systems.
 
 ---
 
-## ⭐ Thanks for Visiting  
-I’m continuously learning and building — feel free to explore my repositories or reach out!
+## 📬 Contact  
+📧 Email: **shashwataneja1401@gmail.com**  
+🌍 Location: **Delhi, India**
 
+---
+
+Thanks for visiting — feel free to explore my repositories!  
