@@ -77,6 +77,50 @@ A clean, minimal backend template for scalable APIs.
 Neural network trained on MNIST with prediction support.  
 ➡️ *Core machine learning fundamentals*
 
+## 🧠 Business AI Suite — System-Level Design
+
+I developed a modular suite of AI-powered tools that automate key areas of business management.  
+Each tool solves a practical challenge and integrates conceptually with **XYLO**, my core automation system.
+
+| Domain | AI Tool | Function |
+|--------|---------|----------|
+| 📊 Business Analytics | Automated KPI Generator | Financial performance extraction |
+| 📈 Predictive Intelligence | Sales Forecasting AI | Revenue trend modeling |
+| 🧾 Accounting Automation | Invoice Categorizer | NLP-based transaction classification |
+| 🤖 Decision Support | AI Business Assistant | Conversational strategic guidance |
+| 👥 Market Optimization | Customer Segmentation AI | Behavior-based grouping |
+| 🎯 Growth Targeting | Lead Scoring AI | Conversion likelihood prediction |
+| 🚚 Operational Efficiency | Inventory Restock Predictor | Stock depletion forecasting |
+
+> These projects collectively simulate how AI can transform finance, operations, and growth decision-making for businesses.
+
+### 🔍 System Overview (Architecture Mapping)
+
+```
+                            +----------------------+
+                            |        XYLO          |
+                            |  AI Business Engine  |
+                            +----------+-----------+
+                                       |
+      +--------------------------------+-------------------------------+
+      |                                |                               |
++-----+-----+                  +--------+--------+            +---------+--------+
+| Analytics |                  | NLP / Automation |            | Decision Systems |
+| KPI Tool  |                  | Invoice Categorizer |         | AI Assistant     |
++-----------+                  +--------------------+          +------------------+
+      |                                |                               |
++-----+-----+               +----------+--------+          +-----------+----------+
+| Forecasting|              | Customer Seg.     |          | Lead Scoring        |
+|  Sales AI  |              | Market AI         |          | Growth Prediction   |
++------------+              +-------------------+          +---------------------+
+                                   |
+                         +---------+--------+
+                         | Inventory Predictor |
+                         +--------------------+
+```
+
+
+
 ---
 
 ## 📈 GitHub Stats
