@@ -129,6 +129,17 @@ Each tool solves a practical challenge and integrates conceptually with **XYLO**
 ![GitHub Followers](https://img.shields.io/github/followers/Shashwat-Aneja?style=flat&color=blue)
 ![GitHub Stars](https://img.shields.io/github/stars/Shashwat-Aneja?style=flat&color=blue)
 
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Shashwat-Aneja&show_icons=true&theme=radical&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwat-Aneja&layout=compact&langs_count=8&theme=radical&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
 ---
 
 ## 🎯 My Vision  
