@@ -6,7 +6,7 @@
 ### Student Developer · AI & VR Enthusiast · Embedded Systems Learner  
 Delhi, India  
 
-I build intelligent systems, interactive experiences, and hardware-integrated projects.  
+I build intelligent systems, interactive experiences, and hardware integrated projects.  
 My work spans **AI**, **machine learning**, **game development**, **VR**, **backend engineering**, and **Arduino-based hardware systems**.
 
 I love solving real problems, creating immersive simulations, and understanding how software and hardware come together.
@@ -21,7 +21,7 @@ I love solving real problems, creating immersive simulations, and understanding 
 - Data preprocessing, evaluation, predictions  
 
 ### **Backend Development (Python)**
-- FastAPI-based APIs  
+- FastAPI based APIs  
 - Automation pipelines  
 - Report generation (PDF/CSV/JSON)  
 - Scheduling, email workflows  
