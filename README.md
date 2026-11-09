@@ -72,7 +72,7 @@ Unity · MPU6050 · Arduino
 
 <img src="https://streak-stats.demolab.com?user=Shashwat-Aneja&theme=transparent&hide_border=true" alt="GitHub contribution streak" width="70%" />
 
-### Pac-Man contributions
+### Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shashwat-Aneja/Shashwat-Aneja/output/pacman-contribution-graph-dark.svg" />
