@@ -20,147 +20,51 @@ Building useful products, connected devices, and immersive experiences.
 
 ## Selected work
 
-<div align="center">
-
-**Products · Experiments · Engineering**
-
-<sub>Click a project name to open its repository, or expand its notes below.</sub>
-
-</div>
-
-<table width="100%">
-<tr><td width="50%" valign="top" align="left">
-<h3><a href="https://github.com/Shashwat-Aneja/Xylo-business-automation-suite">XYLO</a></h3>
-<p>Accounting · Business automation</p>
-<sub><code>Python / Backend</code></sub>
-<p><a href="#project-notes">Details ↓</a> · <a href="https://github.com/Shashwat-Aneja/Xylo-business-automation-suite">Repository ↗</a></p>
-</td><td width="50%" valign="top" align="left">
-<h3><a href="https://github.com/Shashwat-Aneja/WIZARD-HomeAutomation">WIZARD</a></h3>
-<p>Connected devices · Automation</p>
-<sub><code>Arduino / Sensors</code></sub>
-<p><a href="#project-notes">Details ↓</a> · <a href="https://github.com/Shashwat-Aneja/WIZARD-HomeAutomation">Repository ↗</a></p>
+<table>
+<tr><td width="50%" valign="top">
+<strong><a href="https://github.com/Shashwat-Aneja/Xylo-business-automation-suite">XYLO</a></strong>
+<p>Business automation and accounting<br/><sub>Python · Backend</sub></p>
+</td><td width="50%" valign="top">
+<strong><a href="https://github.com/Shashwat-Aneja/WIZARD-HomeAutomation">WIZARD</a></strong>
+<p>Hardware-integrated home automation<br/><sub>Arduino · Sensors</sub></p>
 </td></tr>
-<tr><td width="50%" valign="top" align="left">
-<h3><a href="https://github.com/Shashwat-Aneja/ORBIT">ORBIT</a></h3>
-<p>Experimental interface · Widgets</p>
-<sub><code>Web / UI</code></sub>
-<p><a href="#project-notes">Details ↓</a> · <a href="https://github.com/Shashwat-Aneja/ORBIT">Repository ↗</a></p>
-</td><td width="50%" valign="top" align="left">
-<h3><a href="https://github.com/Shashwat-Aneja/VR-Cricket">VR Cricket</a></h3>
-<p>Virtual reality · Motion tracking</p>
-<sub><code>Unity / Arduino</code></sub>
-<p><a href="#project-notes">Details ↓</a> · <a href="https://github.com/Shashwat-Aneja/VR-Cricket">Repository ↗</a></p>
+<tr><td width="50%" valign="top">
+<strong><a href="https://github.com/Shashwat-Aneja/ORBIT">ORBIT</a></strong>
+<p>Experimental spatial web interface<br/><sub>JavaScript · UI</sub></p>
+</td><td width="50%" valign="top">
+<strong><a href="https://github.com/Shashwat-Aneja/VR-Cricket">VR Cricket</a></strong>
+<p>Motion-controlled virtual reality<br/><sub>Unity · MPU6050</sub></p>
 </td></tr>
-<tr><td width="50%" valign="top" align="left">
-<h3><a href="https://github.com/Shashwat-Aneja/studio.shashwataneja">Studio</a></h3>
-<p>Digital services · Web</p>
-<sub><code>HTML / CSS / JS</code></sub>
-<p><a href="#project-notes">Details ↓</a> · <a href="https://github.com/Shashwat-Aneja/studio.shashwataneja">Repository ↗</a></p>
-</td><td width="50%" valign="top" align="left">
-<h3><a href="https://github.com/Shashwat-Aneja/dashboard.shashwataneja.com">Client Dashboard</a></h3>
-<p>Customer experience · Web</p>
-<sub><code>Web / Dashboard</code></sub>
-<p><a href="#project-notes">Details ↓</a> · <a href="https://github.com/Shashwat-Aneja/dashboard.shashwataneja.com">Repository ↗</a></p>
+<tr><td width="50%" valign="top">
+<strong><a href="https://github.com/Shashwat-Aneja/studio.shashwataneja">Studio</a></strong>
+<p>Digital services and booking interface<br/><sub>Web · Frontend</sub></p>
+</td><td width="50%" valign="top">
+<strong><a href="https://github.com/Shashwat-Aneja/dashboard.shashwataneja.com">Client Dashboard</a></strong>
+<p>Customer-facing management workspace<br/><sub>Web · Dashboard</sub></p>
 </td></tr>
-<tr><td width="50%" valign="top" align="left">
-<h3><a href="https://github.com/Shashwat-Aneja/ARC-Asian-Royal-Conquest">ARC</a></h3>
-<p>3D game · World building</p>
-<sub><code>Game development</code></sub>
-<p><a href="#project-notes">Details ↓</a> · <a href="https://github.com/Shashwat-Aneja/ARC-Asian-Royal-Conquest">Repository ↗</a></p>
-</td><td width="50%" valign="top" align="left">
-<h3><a href="https://github.com/Shashwat-Aneja/100-Days-of-Code-UPES">100 Days of Code</a></h3>
-<p>Programming · Practice</p>
-<sub><code>C / Algorithms</code></sub>
-<p><a href="#project-notes">Details ↓</a> · <a href="https://github.com/Shashwat-Aneja/100-Days-of-Code-UPES">Repository ↗</a></p>
+<tr><td width="50%" valign="top">
+<strong><a href="https://github.com/Shashwat-Aneja/ARC-Asian-Royal-Conquest">ARC</a></strong>
+<p>Open-world game development<br/><sub>3D · Game systems</sub></p>
+</td><td width="50%" valign="top">
+<strong><a href="https://github.com/Shashwat-Aneja/100-Days-of-Code-UPES">100 Days of Code</a></strong>
+<p>Daily coding challenges<br/><sub>C · Algorithms</sub></p>
 </td></tr>
 </table>
 
-<a id="project-notes"></a>
-### Explore projects
-
 <details>
-<summary><strong>XYLO</strong> · Python / Backend</summary>
+<summary><strong>Explore more repositories</strong></summary>
 
-Financial workflows and modular business tooling.
+| Project | Focus |
+| --- | --- |
+| [FastAPI Starter](https://github.com/Shashwat-Aneja/FastAPI-starter-service) | Backend APIs |
+| [MNIST Classifier](https://github.com/Shashwat-Aneja/Mnist-Digit-Classifier) | Machine learning |
+| [KPI Generator](https://github.com/Shashwat-Aneja/automated-kpi-generator) | Business analytics |
+| [Sorting Visualizer](https://github.com/Shashwat-Aneja/sorting-visualizer) | Interactive algorithms |
+| [Arduino Door Lock](https://github.com/Shashwat-Aneja/Arduino-Door-lock) | Embedded systems |
 
-[Browse source](https://github.com/Shashwat-Aneja/Xylo-business-automation-suite)
+[View all repositories](https://github.com/Shashwat-Aneja?tab=repositories)
 
 </details>
-
-<details>
-<summary><strong>WIZARD</strong> · Arduino / Sensors</summary>
-
-Hardware control and sensor-driven automation.
-
-[Browse source](https://github.com/Shashwat-Aneja/WIZARD-HomeAutomation)
-
-</details>
-
-<details>
-<summary><strong>ORBIT</strong> · Web / UI</summary>
-
-Customizable interface experiments.
-
-[Browse source](https://github.com/Shashwat-Aneja/ORBIT)
-
-</details>
-
-<details>
-<summary><strong>VR Cricket</strong> · Unity / Arduino</summary>
-
-Physical bat tracking with an MPU6050.
-
-[Browse source](https://github.com/Shashwat-Aneja/VR-Cricket)
-
-</details>
-
-<details>
-<summary><strong>Studio</strong> · HTML / CSS / JS</summary>
-
-Service discovery and booking interface.
-
-[Browse source](https://github.com/Shashwat-Aneja/studio.shashwataneja)
-
-</details>
-
-<details>
-<summary><strong>Client Dashboard</strong> · Web / Dashboard</summary>
-
-Customer-facing project workspace.
-
-[Browse source](https://github.com/Shashwat-Aneja/dashboard.shashwataneja.com)
-
-</details>
-
-<details>
-<summary><strong>ARC</strong> · Game development</summary>
-
-Open-world game development experiments.
-
-[Browse source](https://github.com/Shashwat-Aneja/ARC-Asian-Royal-Conquest)
-
-</details>
-
-<details>
-<summary><strong>100 Days of Code</strong> · C / Algorithms</summary>
-
-Daily programming challenges.
-
-[Browse source](https://github.com/Shashwat-Aneja/100-Days-of-Code-UPES)
-
-</details>
-
-### More engineering work
-
-| Backend | Machine learning | Analytics |
-| :---: | :---: | :---: |
-| [FastAPI Starter](https://github.com/Shashwat-Aneja/FastAPI-starter-service) | [MNIST Classifier](https://github.com/Shashwat-Aneja/Mnist-Digit-Classifier) | [KPI Generator](https://github.com/Shashwat-Aneja/automated-kpi-generator) |
-
-<div align="center">
-
-[**Browse all repositories →**](https://github.com/Shashwat-Aneja?tab=repositories)
-
-</div>
 
 ---
 
