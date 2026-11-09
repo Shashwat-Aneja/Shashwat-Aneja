@@ -67,10 +67,10 @@ Unity · MPU6050 · Arduino
 
 ## GitHub activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shashwat-Aneja&show_icons=true&hide_border=true&include_all_commits=true&theme=transparent" alt="GitHub statistics" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwat-Aneja&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Most used repository languages" height="165" />
+<a href="https://github.com/Shashwat-Aneja?tab=repositories"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shashwat-Aneja&theme=github_dark" alt="GitHub statistics" height="170" /></a>
+<a href="https://github.com/Shashwat-Aneja?tab=repositories"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shashwat-Aneja&theme=github_dark" alt="Repositories by language" height="170" /></a>
 
-<img src="https://streak-stats.demolab.com?user=Shashwat-Aneja&theme=transparent&hide_border=true" alt="GitHub contribution streak" width="70%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shashwat-Aneja&theme=github_dark" alt="GitHub activity overview" width="90%" />
 
 ### Contributions
 
