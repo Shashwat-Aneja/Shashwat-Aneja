@@ -20,7 +20,7 @@ Building useful products, connected devices, and immersive experiences.
 
 ## Selected work
 
-<table>
+<table align="center">
 <tr>
 <td width="50%" valign="top">
 
