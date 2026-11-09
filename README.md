@@ -20,44 +20,50 @@ Building useful products, connected devices, and immersive experiences.
 
 ## Selected work
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### [XYLO](https://github.com/Shashwat-Aneja/Xylo-business-automation-suite)
-**Business automation and accounting**
+<sub>Explore the repositories behind my products, experiments, and engineering work.</sub>
 
-Backend systems · Financial workflows · Automation
-
-</td>
-<td width="50%" valign="top">
-
-### [WIZARD](https://github.com/Shashwat-Aneja/WIZARD-HomeAutomation)
-**Connected home automation**
-
-Arduino · Sensors · Device control
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [ORBIT](https://github.com/Shashwat-Aneja/ORBIT)
-**Experimental spatial interface**
-
-Interactive UI · Customizable widgets
-
-</td>
-<td width="50%" valign="top">
-
-### [VR Cricket](https://github.com/Shashwat-Aneja/VR-Cricket)
-**Motion-controlled VR experiment**
-
-Unity · MPU6050 · Arduino
-
-</td>
-</tr>
+<table width="100%">
+<tr><td width="50%" align="center" valign="top">
+<a href="https://github.com/Shashwat-Aneja/Xylo-business-automation-suite"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shashwat-Aneja&repo=Xylo-business-automation-suite&theme=transparent&hide_border=true" alt="XYLO repository card" width="100%" /></a>
+<br/><strong><a href="https://github.com/Shashwat-Aneja/Xylo-business-automation-suite">XYLO</a></strong><br/><sub>Accounting and business automation</sub>
+</td><td width="50%" align="center" valign="top">
+<a href="https://github.com/Shashwat-Aneja/WIZARD-HomeAutomation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shashwat-Aneja&repo=WIZARD-HomeAutomation&theme=transparent&hide_border=true" alt="WIZARD repository card" width="100%" /></a>
+<br/><strong><a href="https://github.com/Shashwat-Aneja/WIZARD-HomeAutomation">WIZARD</a></strong><br/><sub>Hardware-based home automation</sub>
+</td></tr>
+<tr><td width="50%" align="center" valign="top">
+<a href="https://github.com/Shashwat-Aneja/ORBIT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shashwat-Aneja&repo=ORBIT&theme=transparent&hide_border=true" alt="ORBIT repository card" width="100%" /></a>
+<br/><strong><a href="https://github.com/Shashwat-Aneja/ORBIT">ORBIT</a></strong><br/><sub>Experimental interactive interface</sub>
+</td><td width="50%" align="center" valign="top">
+<a href="https://github.com/Shashwat-Aneja/VR-Cricket"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shashwat-Aneja&repo=VR-Cricket&theme=transparent&hide_border=true" alt="VR Cricket repository card" width="100%" /></a>
+<br/><strong><a href="https://github.com/Shashwat-Aneja/VR-Cricket">VR Cricket</a></strong><br/><sub>Motion-tracked virtual reality</sub>
+</td></tr>
+<tr><td width="50%" align="center" valign="top">
+<a href="https://github.com/Shashwat-Aneja/dashboard.shashwataneja.com"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shashwat-Aneja&repo=dashboard.shashwataneja.com&theme=transparent&hide_border=true" alt="Client Dashboard repository card" width="100%" /></a>
+<br/><strong><a href="https://github.com/Shashwat-Aneja/dashboard.shashwataneja.com">Client Dashboard</a></strong><br/><sub>Customer management interface</sub>
+</td><td width="50%" align="center" valign="top">
+<a href="https://github.com/Shashwat-Aneja/studio.shashwataneja"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shashwat-Aneja&repo=studio.shashwataneja&theme=transparent&hide_border=true" alt="Studio repository card" width="100%" /></a>
+<br/><strong><a href="https://github.com/Shashwat-Aneja/studio.shashwataneja">Studio</a></strong><br/><sub>Digital services storefront</sub>
+</td></tr>
+<tr><td width="50%" align="center" valign="top">
+<a href="https://github.com/Shashwat-Aneja/ARC-Asian-Royal-Conquest"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shashwat-Aneja&repo=ARC-Asian-Royal-Conquest&theme=transparent&hide_border=true" alt="ARC repository card" width="100%" /></a>
+<br/><strong><a href="https://github.com/Shashwat-Aneja/ARC-Asian-Royal-Conquest">ARC</a></strong><br/><sub>3D game development</sub>
+</td><td width="50%" align="center" valign="top">
+<a href="https://github.com/Shashwat-Aneja/100-Days-of-Code-UPES"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Shashwat-Aneja&repo=100-Days-of-Code-UPES&theme=transparent&hide_border=true" alt="100 Days of Code repository card" width="100%" /></a>
+<br/><strong><a href="https://github.com/Shashwat-Aneja/100-Days-of-Code-UPES">100 Days of Code</a></strong><br/><sub>Programming practice and progress</sub>
+</td></tr>
 </table>
+
+### More engineering work
+
+<a href="https://github.com/Shashwat-Aneja/FastAPI-starter-service"><img src="https://img.shields.io/badge/FastAPI-Starter_Service-1f6f65?style=for-the-badge&logo=fastapi" alt="FastAPI Starter Service"/></a>
+<a href="https://github.com/Shashwat-Aneja/Mnist-Digit-Classifier"><img src="https://img.shields.io/badge/MNIST-Digit_Classifier-334155?style=for-the-badge" alt="MNIST Digit Classifier"/></a>
+<a href="https://github.com/Shashwat-Aneja/automated-kpi-generator"><img src="https://img.shields.io/badge/KPI-Generator-334155?style=for-the-badge" alt="KPI Generator"/></a>
+
+<a href="https://github.com/Shashwat-Aneja?tab=repositories"><img src="https://img.shields.io/badge/Explore_all_repositories-181717?style=flat-square&logo=github" alt="Explore all repositories" /></a>
+
+</div>
 
 <div align="center">
 
