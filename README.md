@@ -87,6 +87,4 @@ Building useful products, connected devices, and immersive experiences.
   <img src="https://raw.githubusercontent.com/Shashwat-Aneja/Shashwat-Aneja/main/profile-3d-contrib/profile-green-animate.svg" alt="3D GitHub contribution skyline" width="100%" />
 </a>
 
-<sub>Generated daily from GitHub contribution activity. The skyline appears after the first successful workflow run.</sub>
-
 </div>
