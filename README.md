@@ -81,12 +81,14 @@ Building useful products, connected devices, and immersive experiences.
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shashwat-Aneja&theme=github_dark" alt="GitHub activity overview" width="90%" />
 
-### Contributions
+### 3D Contribution Skyline
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shashwat-Aneja/Shashwat-Aneja/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shashwat-Aneja/Shashwat-Aneja/output/pacman-contribution-graph.svg" />
-  <img alt="Animated Pac-Man GitHub contribution graph" src="https://raw.githubusercontent.com/Shashwat-Aneja/Shashwat-Aneja/output/pacman-contribution-graph.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
+  <img alt="3D GitHub contribution skyline" src="./profile-3d-contrib/profile-green-animate.svg" width="100%" />
 </picture>
+
+<sub>Generated daily from GitHub contribution activity. The skyline appears after the first successful workflow run.</sub>
 
 </div>
