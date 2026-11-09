@@ -1,158 +1,85 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Shashwat Aneja Banner" width="200%">
-</p>
+<div align="center">
 
-# 👋 Hi, I'm Shashwat Aneja  
-### Student Developer · AI & VR Enthusiast · Embedded Systems Learner  
-Delhi, India  
+<img src="assets/banner.png" alt="Shashwat Aneja" width="100%" />
 
-I build intelligent systems, interactive experiences, and hardware integrated projects.  
-My work spans **AI**, **machine learning**, **game development**, **VR**, **backend engineering**, and **Arduino-based hardware systems**.
+# Shashwat Aneja
 
-I love solving real problems, creating immersive simulations, and understanding how software and hardware come together.
+**Software Engineering · Interactive Systems · Embedded Development**
 
----
+Building useful products, connected devices, and immersive experiences.
 
-## 🚀 What I Do
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-181717?style=flat-square)](https://shashwataneja.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=flat-square&logo=github)](https://github.com/Shashwat-Aneja?tab=repositories)
+[![Email](https://img.shields.io/badge/Email-Contact-181717?style=flat-square&logo=gmail)](mailto:shashwataneja1401@gmail.com)
 
-### **Artificial Intelligence**
-- Neural networks & classification models  
-- MNIST, custom datasets  
-- Data preprocessing, evaluation, predictions  
+![Profile views](https://komarev.com/ghpvc/?username=Shashwat-Aneja&style=flat-square&color=64748b)
+![Followers](https://img.shields.io/github/followers/Shashwat-Aneja?style=flat-square&color=64748b)
+![Stars](https://img.shields.io/github/stars/Shashwat-Aneja?style=flat-square&color=64748b)
 
-### **Backend Development (Python)**
-- FastAPI based APIs  
-- Automation pipelines  
-- Report generation (PDF/CSV/JSON)  
-- Scheduling, email workflows  
+</div>
 
-### **Game & VR Development**
-- Unity (C#)  
-- Godot  
-- Unreal 3D world building  
-- VR interactions, gaze UI systems  
+## Selected work
 
-### **Embedded Systems**
-- Arduino Nano/UNO  
-- MPU6050 IMU motion tracking  
-- Sensors (LDR, relay modules, keypads)  
-- Automation & device control  
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### **Web Development**
-- HTML, CSS, JS  
-- 3D UI components  
-- Interactive utilities  
+### [XYLO](https://github.com/Shashwat-Aneja/Xylo-business-automation-suite)
+**Business automation and accounting**
 
----
+Backend systems · Financial workflows · Automation
 
-## 🛠 Tech Stack
+</td>
+<td width="50%" valign="top">
 
-**Languages:** Python, C#, C++, JavaScript  
-**Frameworks:** FastAPI, PyTorch, scikit-learn, Unity, Godot  
-**Hardware:** Arduino, IMU sensors, LDR, servo/relay modules  
-**Tools:** Git, VS Code, Blender, Linux, Render, Netlify  
+### [WIZARD](https://github.com/Shashwat-Aneja/WIZARD-HomeAutomation)
+**Connected home automation**
 
----
+Arduino · Sensors · Device control
 
-## 📌 Featured Projects
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 🔹 **XYLO — AI Business Automation System**  
-Full backend automation suite with:  
-AI chat assistant · Invoice OCR · Financial reports · Scheduling · FastAPI backend  
-➡️ *Shows AI + backend + automation engineering*
+### [ORBIT](https://github.com/Shashwat-Aneja/ORBIT)
+**Experimental spatial interface**
 
-### 🔹 **VR Cricket Simulation**  
-Unity-based VR cricket with Arduino MPU6050 bat tracking and AI fielding.  
-➡️ *High-impact VR + hardware integration*
+Interactive UI · Customizable widgets
 
-### 🔹 **ARC — Asian Royal Conquest (3D Open World Game)**  
-Large-scale open world with movement, environment design, and gameplay systems.  
-➡️ *Advanced 3D game engineering*
+</td>
+<td width="50%" valign="top">
 
-### 🔹 **FastAPI Starter Service**  
-A clean, minimal backend template for scalable APIs.  
-➡️ *Backend fundamentals and clean architecture*
+### [VR Cricket](https://github.com/Shashwat-Aneja/VR-Cricket)
+**Motion-controlled VR experiment**
 
-### 🔹 **MNIST Digit Classifier**  
-Neural network trained on MNIST with prediction support.  
-➡️ *Core machine learning fundamentals*
+Unity · MPU6050 · Arduino
 
-## 🧠 Business AI Suite — System-Level Design
-
-I developed a modular suite of AI-powered tools that automate key areas of business management.  
-Each tool solves a practical challenge and integrates conceptually with **XYLO**, my core automation system.
-
-| Domain | AI Tool | Function |
-|--------|---------|----------|
-| 📊 Business Analytics | Automated KPI Generator | Financial performance extraction |
-| 📈 Predictive Intelligence | Sales Forecasting AI | Revenue trend modeling |
-| 🧾 Accounting Automation | Invoice Categorizer | NLP-based transaction classification |
-| 🤖 Decision Support | AI Business Assistant | Conversational strategic guidance |
-| 👥 Market Optimization | Customer Segmentation AI | Behavior-based grouping |
-| 🎯 Growth Targeting | Lead Scoring AI | Conversion likelihood prediction |
-| 🚚 Operational Efficiency | Inventory Restock Predictor | Stock depletion forecasting |
-
-> These projects collectively simulate how AI can transform finance, operations, and growth decision-making for businesses.
-
-### 🔍 System Overview (Architecture Mapping)
-
-```
-                            +----------------------+
-                            |        XYLO          |
-                            |  AI Business Engine  |
-                            +----------+-----------+
-                                       |
-      +--------------------------------+-------------------------------+
-      |                                |                               |
-+-----+-----+                  +--------+--------+            +---------+--------+
-| Analytics |                  | NLP / Automation |            | Decision Systems |
-| KPI Tool  |                  | Invoice Categorizer |         | AI Assistant     |
-+-----------+                  +--------------------+          +------------------+
-      |                                |                               |
-+-----+-----+               +----------+--------+          +-----------+----------+
-| Forecasting|              | Customer Seg.     |          | Lead Scoring        |
-|  Sales AI  |              | Market AI         |          | Growth Prediction   |
-+------------+              +-------------------+          +---------------------+
-                                   |
-                         +---------+--------+
-                         | Inventory Predictor |
-                         +--------------------+
-```
-
-
-
----
-
-## 📈 GitHub Stats
-
-![Profile Views](https://komarev.com/ghpvc/?username=Shashwat-Aneja&style=flat&color=blue)
-![GitHub Followers](https://img.shields.io/github/followers/Shashwat-Aneja?style=flat&color=blue)
-![GitHub Stars](https://img.shields.io/github/stars/Shashwat-Aneja?style=flat&color=blue)
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Shashwat-Aneja&show_icons=true&theme=radical&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwat-Aneja&layout=compact&langs_count=8&theme=radical&hide_border=true" />
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
----
+<div align="center">
 
-## 🎯 My Vision  
-I want to build systems where **AI**, **real-world sensors**, and **interactive environments** work together to create practical, intelligent, and immersive technology.
+## Toolbox
 
-Long term, I aim to contribute to **AI research**, advanced automation tools, and interactive simulation systems.
+<img src="https://skillicons.dev/icons?i=python,c,cpp,cs,js,ts,react,nextjs,fastapi,unity,arduino,git,github,linux,vercel,supabase&perline=8" alt="Programming languages, frameworks, and tools" />
 
----
+## GitHub activity
 
-## 📬 Contact  
-📧 Email: **shashwataneja1401@gmail.com**  
-🌍 Location: **Delhi, India**
+<img src="https://github-readme-stats.vercel.app/api?username=Shashwat-Aneja&show_icons=true&hide_border=true&include_all_commits=true&theme=transparent" alt="GitHub statistics" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwat-Aneja&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Most used repository languages" height="165" />
 
----
+<img src="https://streak-stats.demolab.com?user=Shashwat-Aneja&theme=transparent&hide_border=true" alt="GitHub contribution streak" width="70%" />
 
-Thanks for visiting — feel free to explore my repositories!  
+### Pac-Man contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shashwat-Aneja/Shashwat-Aneja/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shashwat-Aneja/Shashwat-Aneja/output/pacman-contribution-graph.svg" />
+  <img alt="Animated Pac-Man GitHub contribution graph" src="https://raw.githubusercontent.com/Shashwat-Aneja/Shashwat-Aneja/output/pacman-contribution-graph.svg" width="100%" />
+</picture>
+
+<sub>Contribution visualization updates daily via GitHub Actions. GitHub metrics are generated by third-party services and may be temporarily unavailable.</sub>
+
+</div>
