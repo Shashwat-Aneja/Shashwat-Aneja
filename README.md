@@ -20,7 +20,7 @@ Building useful products, connected devices, and immersive experiences.
 
 ## Selected work
 
-<table>
+<table align="centre">
 <tr><td width="50%" valign="top">
 <strong><a href="https://github.com/Shashwat-Aneja/Xylo-business-automation-suite">XYLO</a></strong>
 <p>Business automation and accounting<br/><sub>Python · Backend</sub></p>
